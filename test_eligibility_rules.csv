@@ -1,3 +1,2 @@
-id,rule_id,flow_type,inclusion,cob,state,rule,decline_reason
-1,payroll_over_5m,ALL,ALL,ALL,ALL,employeePayrollNext12Months > 5000000,Your annual payroll is too high
-2,revenue_over_5m,ALL,ALL,ALL,ALL,revenueNext12Months > 5000000,Your annual revenue is too high
+"id","rule_id","flow_type","inclusion","cob","state","rule","decline_reason"
+"3","rule_3","ALL","ALL","ALL","CA","expression.contains(40)","Declined"
