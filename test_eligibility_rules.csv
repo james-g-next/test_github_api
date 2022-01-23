@@ -1,0 +1,2 @@
+"id","rule_id","flow_type","inclusion","cob","state","rule","decline_reason"
+"3","rule_3","ALL","ALL","ALL","CA","expression.contains(40)","Declined"
